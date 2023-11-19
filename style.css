@@ -1,0 +1,42 @@
+h1{
+    color: hsl(0, 77%, 46%);
+    font-size: medium;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    }
+h2{
+    color: rgb(7, 7, 14);
+    size: 10cm;
+}
+h3{
+color: hsl(0, 77%, 46%);
+font-size: medium;
+font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+h4{
+color: hsl(0, 77%, 46%);
+font-size: medium;
+font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+h5{
+color: hsl(0, 77%, 46%);
+font-size: medium;
+font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+p2{
+    color: blue;
+font-size: larger;
+font-family: Georgia, 'Times New Roman', Times, serif;
+}
+p1{
+    color: blueviolet;
+    inline-size: 10cm;
+    font-size: x-large;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    p3{
+font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+        font-size: larger;
+    }
+    p4{
+        font-size: x-large;
+        font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    }
